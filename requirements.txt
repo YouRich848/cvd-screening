@@ -1,0 +1,4 @@
+fastapi
+uvicorn[standard]
+python-telegram-bot==20.*  # или 21, если уже вышла
+python-multipart
